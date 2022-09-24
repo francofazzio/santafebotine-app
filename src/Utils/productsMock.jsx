@@ -1,29 +1,29 @@
 const mockProductos = [{
     id: 1,
-    title : 'Magnolia Intermedio',
-    talle : 'XL',
+    title : 'Gris Naranja Blanco',
+    talle : '42',
     price : 1500,
-    image: 'moño6.jpeg',
-    category:'ellas',
+    image: 'grisnaranjablanco.png',
+    category:'Nike',
     stock: 8
 },
 {
     id: 2,
-    title : 'Pasteles',
-    talle : 'XL',
+    title : 'Naranja Blanco',
+    talle : '39',
     price : 1500,
-    image : 'moño5.jpeg',
-    category:'ellas',
+    image : 'naranjablanco.png',
+    category:'Nike',
     stock : 8
     
 },
 {     
     id: 3,
-    title : 'Magnolia Lycra',
+    title : 'Naranja Negro',
     talle : 'XL',
      price : 1500,
-     image:'moño4.jpeg',
-     category:'ellas',
+     image:'naranjanegro.jpg',
+     category:'Nike',
      stock : 8
 
      
@@ -31,11 +31,11 @@ const mockProductos = [{
 },
 { 
     id:4,
-    title : 'Jazmin Bordado Especial',
-    talle : 'XL',
+    title : 'Turquesa',
+    talle : '41',
      price : 1500,
-     image: 'moño3.jpeg',
-     category:'ellas',
+     image: 'turquesa.jpg',
+     category:'Adidas',
      stock : 8
     
 },
@@ -45,7 +45,7 @@ const mockProductos = [{
     talle : 'XL',
      price : 1500,
      image: 'moño2.jpeg',
-     category:'ellos',
+     category:'Adidas',
      stock : 8
     
 },
@@ -55,7 +55,7 @@ const mockProductos = [{
     talle : 'XL',
      price : 1500,
      image: 'moño1.jpeg',
-     category: 'escolares',
+     category: 'UnderArmour',
      stock : 8
     
 },

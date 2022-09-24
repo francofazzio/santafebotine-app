@@ -73,13 +73,13 @@ function NavBar(props) {
                                 }}
                             >
                                 <MenuItem onClick={handleClose}>
-                                    <Link to={'/ellas'}>Ellas</Link>
+                                    <Link to={'/ellas'}>Adidas</Link>
                                 </MenuItem>
                                 <MenuItem onClick={handleClose}>
-                                    <Link to={'/ellos'}>Ellos</Link>
+                                    <Link to={'/ellos'}>Nike</Link>
                                 </MenuItem>
                                 <MenuItem onClick={handleClose}>
-                                    <Link to={'/escolares'}>Escolares</Link>
+                                    <Link to={'/escolares'}>UnderArmour</Link>
                                 </MenuItem>
                             </Menu> 
                         </li>
