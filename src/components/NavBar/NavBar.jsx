@@ -46,9 +46,9 @@ function NavBar(props) {
         <header className={`main-header ${ligthTheme ? 'light-mode' : 'dark-mode'}`}> 
             <div className='container-logo'>
                 {ligthTheme ? (
-                    <img src="../logo1234.jpeg" className="img-header"/>
+                    <img src="../logosfbotine.jpeg" className="img-header"/>
                 ) : (
-                    <img src="../logo1234.jpeg" className="img-header"/>
+                    <img src="../logosfbotine.jpeg" className="img-header"/>
                 ) }
             </div>
             <ul className='navbar'> 

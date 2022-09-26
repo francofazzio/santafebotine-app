@@ -41,20 +41,20 @@ const mockProductos = [{
 },
 { 
     id:5,
-    title : 'Ellos',
+    title : 'Rosados',
     talle : 'XL',
      price : 1500,
-     image: 'moño2.jpeg',
+     image: 'tricolor.jpg',
      category:'Adidas',
      stock : 8
     
 },
 { 
     id:6,
-    title : 'Escolares',
+    title : 'Rojos',
     talle : 'XL',
      price : 1500,
-     image: 'moño1.jpeg',
+     image: 'rojoyblanco.png',
      category: 'UnderArmour',
      stock : 8
     
